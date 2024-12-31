@@ -1,4 +1,4 @@
-# 🤖 Welcome to My World! (´∇｀ )👋 
+# 🤖 Welcome to My World! 👋 
 
 ---
 
@@ -21,12 +21,12 @@ Currently diving deep into projects that blend creativity with technology. Stay 
 ---
 
 ### 📫 Let’s Connect!
-- **Email**: [Molapur80@gmail.com](mailto:Molapur80@gmail.com)  
+-  ✉ **Email**: [Molapur80@gmail.com](mailto:Molapur80@gmail.com)  
 -  🐙 **GitHub**: [Your GitHub Profile](https://github.com/Molapur80)  
   
 
 ---
 
 ### 🌈 Fun Fact:
-I believe that technology can change the world, and I’m here to be part of that change! 💡🌍
+🍄 I believe that technology can change the world, and I’m here to be part of that change! 💡🌍
 
