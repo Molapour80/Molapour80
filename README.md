@@ -22,7 +22,7 @@ Currently diving deep into projects that blend creativity with technology. Stay 
 
 ### 📫 Let’s Connect!
 -  ✉ **Email**: [Molapur80@gmail.com](mailto:Molapur80@gmail.com)  
--  🐙 **GitHub**: [Your GitHub Profile](https://github.com/Molapur80)  
+-  🐙 **GitHub**: [Your GitHub Profile](https://github.com/Molapour80/)  
   
 
 ---
