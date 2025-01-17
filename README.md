@@ -2,7 +2,7 @@
 
 ---
 
-### 🌟 Who Am I?
+###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... Who Am I?
 I'm a budding programmer on an exciting journey into the realm of AI! 🚀✨   
 - **Languages**: Python, with a sprinkle of AI magic 🐍🪄  
 - **Passions**: AI, Robotics, Web Development, and all things tech! 🔬💻  
