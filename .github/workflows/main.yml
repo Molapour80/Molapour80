@@ -1,26 +1,22 @@
-name: Generate Snake Game
+name: Generate Contribution Graphs
 
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:     # Allows manual triggering
+  push:
+    branches:
+      - main
 
 jobs:
-  generate:
+  generate-graphs:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      
-      - name: Generate Snake Game
-        uses: Platane/snk@v3.3.0
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Contribution Graphs
+        uses: Platane/snk@v3
         with:
-          github_user_name: "Molapour80"  # Your GitHub username
+          github_user_name: Molapour80
           outputs: |
-            assets/github-contribution-snake.svg
-            assets/github-contribution-snake-dark.svg?palette=github-dark
-      
-      - name: Upload Artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: snake-game
-          path: assets/
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
