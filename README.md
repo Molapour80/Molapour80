@@ -31,7 +31,7 @@ Currently diving deep into projects that blend creativity with technology. Stay 
 
 ---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github/github_black.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github/github_wite.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="Github contribution snake" src="dist/github-snake.svg" />
 </picture>
