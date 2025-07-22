@@ -31,10 +31,4 @@ Currently diving deep into projects that blend creativity with technology. Stay 
 
 ---
 
-[![Spotify](https://img.shields.io/badge/Spotify-Favorite%20song-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/26e8ujjSpBAHhIY2ymLUT1?si=eba8f5c353bc432e)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Molapour80&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Molapour80&layout=compact&theme=radical)
-
 ![Snake animation](https://github.com/Bita404/snk/blob/output/github-contribution-grid-snake-dark.svg)
