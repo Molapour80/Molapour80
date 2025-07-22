@@ -30,8 +30,4 @@ Currently diving deep into projects that blend creativity with technology. Stay 
 🍄 I believe that technology can change the world, and I’m here to be part of that change! 💡🌍
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="Github contribution snake" src="dist/github-snake.svg" />
-</picture>
+
