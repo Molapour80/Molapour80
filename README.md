@@ -29,4 +29,8 @@ Currently diving deep into projects that blend creativity with technology. Stay 
 ### 🌈 Fun Fact:
 🍄 I believe that technology can change the world, and I’m here to be part of that change! 💡🌍
 
-([file:///C:/Users/pishro-pc/Downloads/github-user-contribution.svg](https://platane.github.io/snk/))
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/username/username/main/assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/username/username/main/assets/github-snake.svg" />
+  <img alt="github-contributions" src="https://raw.githubusercontent.com/username/username/main/assets/github-snake.svg" />
+</picture>
