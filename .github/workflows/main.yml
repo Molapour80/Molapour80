@@ -10,13 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
       - uses: Platane/snk@v3
         with:
-          github_user_name: "Molapour80"
+          github_user_name: "Molapour80"  
           outputs: |
-            output/github-contribution-grid-snake.svg
-            output/github-contribution-grid-snake-dark.svg
-      - uses: actions/upload-artifact@v4  
+            output/github-snake.svg
+            output/github-snake-dark.svg?palette=github-dark
+            
+      - uses: actions/upload-artifact@v4
         with:
           name: snake-images
           path: output/
