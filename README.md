@@ -29,3 +29,9 @@ Currently diving deep into projects that blend creativity with technology. Stay 
 ### 🌈 Fun Fact:
 🍄 I believe that technology can change the world, and I’m here to be part of that change! 💡🌍
 
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Molapour80/Molapour80/main/assets/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Molapour80/Molapour80/main/assets/github-snake.svg">
+  <img alt="نمودار مشارکت من" src="https://raw.githubusercontent.com/Molapour80/Molapour80/main/assets/github-snake.svg">
+</picture>
