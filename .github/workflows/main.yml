@@ -1,21 +1,24 @@
-name: Generate Contribution Graphs
+name: Generate Contribution Snake
 
 on:
+  schedule:
+    - cron: '0 0 * * *' 
   push:
     branches:
-      - main
+      - main  
 
 jobs:
-  generate-graphs:
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Generate Contribution Graphs
+      - uses: actions/checkout@v3
+      
+      - name: Generate Snake Contribution Graph
         uses: Platane/snk@v3
         with:
-          github_user_name: Molapour80
+          github_user_name: 'Molapour80'
+          
+          
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
